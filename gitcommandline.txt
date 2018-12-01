@@ -6,4 +6,6 @@
 * git commit -m "Adding git hub comments"
 * git checkout -b test1201 ==> new branch created
 * git branch ==> list all branch, * is current
+* git add gitcommandline.txt ==> file added in new branch.
+* git commit -m "Adding git hub comments in test1201"
 * 
