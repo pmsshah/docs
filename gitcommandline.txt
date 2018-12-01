@@ -1,0 +1,5 @@
+* git list command line.
+* git init ==> initialize git
+// create temp file
+* get status ==> list the status of files.
+* git commit -m "Adding git hub comments"
