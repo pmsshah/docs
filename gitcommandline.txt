@@ -1,5 +1,9 @@
 * git list command line.
 * git init ==> initialize git
-// create temp file
+// create temp file like gitcommandline.txt
 * get status ==> list the status of files.
+* git add gitcommandline.txt ==> file added.
 * git commit -m "Adding git hub comments"
+* git checkout -b test1201 ==> new branch created
+* git branch ==> list all branch, * is current
+* 
