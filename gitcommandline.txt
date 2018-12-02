@@ -8,4 +8,11 @@
 * git branch ==> list all branch, * is current
 * git add gitcommandline.txt ==> file added in new branch.
 * git commit -m "Adding git hub comments in test1201"
+* Go to web site, create "docs" repository
+* git remote add origin https://github.com/pmsshah/docs.git
+* git push -u origin master ==> master pushed in new repository
+* git push origin test1201 ==> push branch
+* go to UI and merge it, u still in branch on command line
+* git pull origin master ==> get all from master
+* git log ==> will show all comments
 * 
